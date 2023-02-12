@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **designing websites using HTML,CSS,JavaScript,React Framework**
 
-- 🌱 I’m currently learning **Next.js**
-
 - 📫 How to reach me **harithchandrasekaran3@gmail.com**
 
 
