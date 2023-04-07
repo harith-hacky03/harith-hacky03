@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **designing websites using HTML,CSS,JavaScript,React Framework**
 
-- 📫 How to reach me **harithchandrasekaran3@gmail.com**
+- 📫 How to reach me **harithreddy3@gmail.com**
 
 
   
