@@ -8,12 +8,6 @@
 - 📫 How to reach me **harithchandrasekaran3@gmail.com**
 
 
-
-<h1 align="center"> 📈 &nbsp;My GitHub History!</h1>
-
-
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=harith-hacky03&theme=merko" alt="harith" height="200" width="470" /></p>
-
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
