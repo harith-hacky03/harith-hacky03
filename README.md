@@ -3,10 +3,10 @@
 <h1 align="center">Hi 👋, I'm Harith </h1> 
 <h3 align="center">A passionate Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavirajec&label=Profile%20views&color=0e75b6&style=flat" alt="kavirajec" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harith-hacky03&label=Profile%20views&color=0e75b6&style=flat" alt="harith" /> </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app?username=kavirajEC&theme=react&column=-1&row=1&margin-w=3&margin-h=3&no-bg=false&no-frame=false&order=4" height="180" alt="trophy graph"  />
+<img src="https://github-profile-trophy.vercel.app?username=harith-hacky03&theme=react&column=-1&row=1&margin-w=3&margin-h=3&no-bg=false&no-frame=false&order=4" height="180" alt="trophy graph"  />
 </p>
 <img align="right" alt="Coding" width="350" src= "https://user-images.githubusercontent.com/99302089/233880071-f3571db1-de31-4c90-a8b8-fb5eeab94a6a.gif" />
 
