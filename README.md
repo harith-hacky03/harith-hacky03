@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/KAVIRAJec/KAVIRAJec/blob/main/Blue%20And%20White%20Bold%20Business%20Solution%20LinkedIn%20Article%20Cover%20Image.gif)
+
 
 <h1 align="center">Hi 👋, I'm Harith </h1> 
 <h3 align="center">A passionate Developer from India</h3>
@@ -10,7 +10,7 @@
 </p>
 <img align="right" alt="Coding" width="350" src= "https://user-images.githubusercontent.com/99302089/233880071-f3571db1-de31-4c90-a8b8-fb5eeab94a6a.gif" />
 
-- 🔭 I’m currently pursuing BTech,CSE **Sastra Deemed University,Thanjavur**
+- 🔭 I’m currently pursuing BTech,CSE at **Sastra Deemed University,Thanjavur**
 
 - 🌱 I’m currently learning **Data Structure and Algorithms(using C++)**
 
@@ -57,7 +57,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harith-hacky03&theme=vue-dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&border_radius=10&order=1" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=harith-hacky03&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=10&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harith-hacky03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ### ✍️ Random Dev Quote
